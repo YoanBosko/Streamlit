@@ -1,0 +1,21 @@
+{
+    "sentiments": [
+        {
+            "sentiment": "perkenalan",
+            "responses": [
+                "halo aku adalah chatbot",
+                "halo apa kabar",
+                "halo saya adalah chatbot"
+            ]
+        },
+        {
+            "sentiment": "owner",
+            "responses": [
+                "pembuat aplikasi ini adalah Yoang"
+            ]
+
+        }
+            
+        
+    ]
+}
